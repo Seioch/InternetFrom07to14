@@ -73,7 +73,9 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
-
+p{
+	 font-size: 200%;
+}
 /*
     Now here is when interesting things start to appear.
 
@@ -222,7 +224,7 @@ a:focus {
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
 
     font-family: 'Open Sans', Arial, sans-serif;
-    font-size: 30px;
+    font-size: 15px;
     line-height: 36px;
     letter-spacing: -1px;
 }
